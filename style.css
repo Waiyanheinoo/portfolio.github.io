@@ -8,6 +8,10 @@
 }
 
 body {
+    background-color: antiquewhite;
+}
+
+body {
     .poppins-light {
         font-family: "Poppins", sans-serif;
         font-weight: 300;
